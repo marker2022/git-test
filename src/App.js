@@ -2,7 +2,7 @@ function App() {
     const message = "Hello world";
 
     return (
-        <h1>Hello world</h1>
+        <h1>{message}</h1>
     );
 }
 
