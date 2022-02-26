@@ -1,6 +1,8 @@
 function App() {
+    const message = "Hello world";
+
     return (
-        <div>Hello world</div>
+        <h1>{message}</h1>
     );
 }
 
